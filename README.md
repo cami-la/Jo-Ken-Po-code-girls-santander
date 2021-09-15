@@ -24,7 +24,7 @@
 
 <p align="center"><em> WORA (Write Once Run Anywhere)</em></p>
 
-<img src="https://rogerioaraujo.files.wordpress.com/2013/01/visaogeraldevjava.png" width="300" height="200" />
+<img src="https://rogerioaraujo.files.wordpress.com/2013/01/visaogeraldevjava.png" width="600" height="400" />
 
 <h3>🔸 O que danado é "Lógica de programação?"</h3>
 
