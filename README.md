@@ -22,9 +22,9 @@
     </ul>
 </p>
 
-<q><em><strong>Java applications are called WORA (Write Once Run Anywhere)</em></strong></q>
+<p align="center"><em> WORA (Write Once Run Anywhere)</em></p>
 
-![alt text](https://rogerioaraujo.files.wordpress.com/2013/01/visaogeraldevjava.png)
+<img src="https://rogerioaraujo.files.wordpress.com/2013/01/visaogeraldevjava.png" width="300" height="200" />
 
 <h3>🔸 O que danado é "Lógica de programação?"</h3>
 
