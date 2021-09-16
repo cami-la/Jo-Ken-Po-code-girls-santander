@@ -41,8 +41,8 @@
     </ul>
 </p>
 
+<h3 align="center"> Write Once Run Anywhere </h3>
 <p align="center">
-    <h3> (Write Once Run Anywhere)</h3>
     <img src="https://rogerioaraujo.files.wordpress.com/2013/01/visaogeraldevjava.png" width="600" height="400"/>
 </p>
 
