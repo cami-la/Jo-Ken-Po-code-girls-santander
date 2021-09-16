@@ -43,12 +43,16 @@
 
 <p align="center">
     <em> <strong>WORA (Write Once Run Anywhere)</strong></em>
-    <img src="https://rogerioaraujo.files.wordpress.com/2013/01/visaogeraldevjava.png" width="600" height="400" align="center"/>
+    <img src="https://rogerioaraujo.files.wordpress.com/2013/01/visaogeraldevjava.png" width="600" height="400"/>
 </p>
 
-<h3 align="center">Jo-Ken-Po ✊ ✋ ✌ </h3>
+<h2 align="center">Jo-Ken-Po ✊ ✋ ✌ </h2>
+<p>Vamos fazer um programinha que simula o Jo-Ken-Po (pedra, papel e tesoura).</p>
+<p align="center">Jogadores: Usuário vs. Máquina<br>O melhor de 5 jogadas vence!</p>
 
-
+<p align="center">
+    <img src="https://c.tenor.com/CACaU3WIOQYAAAAd/friends-monica-geller.gif" width="600" height="400" alt="jokenpo-monica-rachel">
+</p>
 
 
 
