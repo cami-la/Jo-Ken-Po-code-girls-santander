@@ -12,7 +12,9 @@
 <p>O computador não é nada inteligente. Por mais veloz que seja, ele está limitado a executar apenas a tarefa para a qual foi programado. Essa, porém, é uma daquelas desvantagens que também têm o seu lado bom.</p>
 <p>Ao mesmo tempo em que está limitada ao algoritmo que deve ser executado, a máquina pode realizar a mesma tarefas por horas a fio e a uma velocidade constante, sem que se chateie ou entre em questionamentos filosóficos sobre a vida, o universo e tudo o mais.</p>
 <p align="right"><a href="https://www.tecmundo.com.br/ciencia/16846-cerebro-humano-x-pc-como-eles-se-comparam-.htm">Fonte</a></p>
-
+<p align="center">
+    <img src="https://media2.giphy.com/media/CTX0ivSQbI78A/giphy.gif?cid=790b7611f1697e92d7a4495d340aca8709e424b4d49f2b8f&rid=giphy.gif&ct=g" width="600" height="400"/>
+</p>
 <h2>♨️ O que danado é "Lógica de programação?"</h2>
 <p>Lógica de programação é a organização coesa de uma sequência de instruções voltadas à resolução de um problema, ou à criação de um software ou aplicação.</p>
 <p>Cada linguagem tem suas próprias particularidades, como sua sintaxe, seus tipos de dados e sua orientação, mas a lógica por trás de todas é a mesma.</p>
@@ -60,8 +62,7 @@ Jogadores: Usuário vs. Máquina<br>
 O melhor de 5 jogadas vence!<br><br>
 <img src="https://c.tenor.com/CACaU3WIOQYAAAAd/friends-monica-geller.gif" width="600" height="400" alt="jokenpo-monica-rachel">
 </p>
-<p align="center">
-</p>
+
 
 <h2> 🤝 Contribuindo </h2>
 
