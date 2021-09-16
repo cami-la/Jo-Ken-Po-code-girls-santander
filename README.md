@@ -22,9 +22,12 @@
     </ul>
 </p>
 
-<p align="center"><em> WORA (Write Once Run Anywhere)</em></p>
+<p align="center">
+    <em> WORA (Write Once Run Anywhere)</em>
+    <img align="center" src="https://rogerioaraujo.files.wordpress.com/2013/01/visaogeraldevjava.png" width="600" height="400" align="center"/>
+</p>
 
-<img align="center" src="https://rogerioaraujo.files.wordpress.com/2013/01/visaogeraldevjava.png" width="600" height="400" align="center"/>
+
 
 
 <h3>🔸 O que danado é "Lógica de programação?"</h3>
