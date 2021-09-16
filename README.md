@@ -4,7 +4,7 @@
     <li><a href="https://github.com/cami-la/Jo-Ken-Po-code-girls-santander/tree/master/EstruturaSequencial">Estrutura Sequencial</a></li>
     <li><a href="https://github.com/cami-la/Jo-Ken-Po-code-girls-santander/tree/master/EstruturaDeDecisao">Estruturas de Decisão</a></li>
     <li><a href="https://github.com/cami-la/Jo-Ken-Po-code-girls-santander/tree/master/EstruturasDeRepeticao">Estruturas de Repetição</a></li>
-    <li>Jo-ken-Po</li>
+    <li><a href="https://github.com/cami-la/Jo-Ken-Po-code-girls-santander/tree/master/Jo-Ken-Po">Jo-ken-Po</a></li>
 </ol>
 
 <h2>♨️ Computador X Humanos </h2>
