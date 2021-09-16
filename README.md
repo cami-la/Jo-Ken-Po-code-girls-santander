@@ -9,7 +9,7 @@
 
 <h2>♨️ Computador X Humanos </h2>
 
-<h2>♨️ O que de fato é uma Linguagem de Programação?</h2>
+<h2>♨️ Como podemos definir "Linguagem de Programação"?</h2>
 <p> É uma linguagem formal que, através de uma série de instruções, permite ao programador escrever um conjunto de ordens, ações consecutivas, dados e algoritmos para criar programas que controlam o comportamento físico e lógico de uma máquina.</p>
 <p> Podem ser classificadas em:</p>
 
@@ -50,7 +50,7 @@
 <p align="center">
 Vamos fazer um programinha que simula o <a href="https://github.com/cami-la/Jo-Ken-Po-code-girls-santander/tree/master/Jo-Ken-Po">Jo-Ken-Po</a> (pedra, papel e tesoura).<br>
 Jogadores: Usuário vs. Máquina<br>
-O melhor de 5 jogadas vence!
+O melhor de 5 jogadas vence!<br>
 <img src="https://c.tenor.com/CACaU3WIOQYAAAAd/friends-monica-geller.gif" width="600" height="400" alt="jokenpo-monica-rachel">
 </p>
 <p align="center">
