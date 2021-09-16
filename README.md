@@ -7,9 +7,9 @@
     <li>Jo-ken-Po</li>
 </ol>
 
-<h3>♨️ Computador X Humanos </h3>
+<h2>♨️ Computador X Humanos </h2>
 
-<h3>♨️ O que de fato é uma Linguagem de Programação?</h3>
+<h2>♨️ O que de fato é uma Linguagem de Programação?</h2>
 <p> É uma linguagem formal que, através de uma série de instruções, permite ao programador escrever um conjunto de ordens, ações consecutivas, dados e algoritmos para criar programas que controlam o comportamento físico e lógico de uma máquina.</p>
 <p> Podem ser classificadas em:</p>
 
@@ -28,9 +28,9 @@
     </li>
 </ul>
 
-<h3>♨️ O que danado é "Lógica de programação?"</h3>
+<h2>♨️ O que danado é "Lógica de programação?"</h2>
 
-<h3>♨️ Te apresento a Linguagem Java 🖤:</h3>
+<h2>♨️ Te apresento a Linguagem Java 🖤:</h2>
 <p>
     <ul>
         <li>Java é uma linguagem de programação orientada a objetos desenvolvida na década de 90.</li>
@@ -50,9 +50,9 @@
 <p align="center">
 Vamos fazer um programinha que simula o <a href="https://github.com/cami-la/Jo-Ken-Po-code-girls-santander/tree/master/Jo-Ken-Po">Jo-Ken-Po</a> (pedra, papel e tesoura).<br>
 Jogadores: Usuário vs. Máquina<br>
-O melhor de 5 jogadas vence!</p>
+O melhor de 5 jogadas vence!
 <img src="https://c.tenor.com/CACaU3WIOQYAAAAd/friends-monica-geller.gif" width="600" height="400" alt="jokenpo-monica-rachel">
-
+</p>
 <p align="center">
 </p>
 
