@@ -1,9 +1,9 @@
 <h2>📝 Ementa</h2>
 
 <ol>
-    <li>Estrutura Sequencial</li>
-    <li>Estruturas de Decisão</li>
-    <li>Estruturas de Repetição</li>
+    <li><a href="https://github.com/cami-la/Jo-Ken-Po-code-girls-santander/tree/master/EstruturaSequencial">Estrutura Sequencial</a></li>
+    <li><a href="https://github.com/cami-la/Jo-Ken-Po-code-girls-santander/tree/master/EstruturaDeDecisao">Estruturas de Decisão</a></li>
+    <li><a href="https://github.com/cami-la/Jo-Ken-Po-code-girls-santander/tree/master/EstruturasDeRepeticao">Estruturas de Repetição</a></li>
     <li>Jo-ken-Po</li>
 </ol>
 
