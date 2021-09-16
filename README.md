@@ -10,7 +10,8 @@
 <h3>♨️ Computador X Humanos </h3>
 
 <h3>♨️ O que de fato é uma Linguagem de Programação?</h3>
-É uma linguagem formal que, através de uma série de instruções, permite que um programador escreva um conjunto de ordens, ações consecutivas, dados e algoritmos para criar programas que controlam o comportamento físico e lógico de uma máquina.
+<p> É uma linguagem formal que, através de uma série de instruções, permite ao programador escrever um conjunto de ordens, ações consecutivas, dados e algoritmos para criar programas que controlam o comportamento físico e lógico de uma máquina.</p>
+<p> Podem ser classificadas em:</p>
 
 <ul>
     <li>
@@ -26,6 +27,8 @@
         Tipo de execução
     </li>
 </ul>
+
+<h3>♨️ O que danado é "Lógica de programação?"</h3>
 
 <h3>♨️ Te apresento a Linguagem Java 🖤:</h3>
 <p>
@@ -43,8 +46,9 @@
     <img src="https://rogerioaraujo.files.wordpress.com/2013/01/visaogeraldevjava.png" width="600" height="400" align="center"/>
 </p>
 
+<h3 align="center">Jo-Ken-Po ✊ ✋ ✌ </h3>
 
 
 
-<h3>✨ O que danado é "Lógica de programação?"</h3>
+
 
