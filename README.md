@@ -47,12 +47,30 @@
 </p>
 
 <h2 align="center">Jo-Ken-Po ✊ ✋ ✌ </h2>
-<p>Vamos fazer um programinha que simula o Jo-Ken-Po (pedra, papel e tesoura).</p>
-<p align="center">Jogadores: Usuário vs. Máquina<br>O melhor de 5 jogadas vence!</p>
+<p align="center">
+Vamos fazer um programinha que simula o <a href="https://github.com/cami-la/Jo-Ken-Po-code-girls-santander/tree/master/Jo-Ken-Po">Jo-Ken-Po</a> (pedra, papel e tesoura).<br>
+Jogadores: Usuário vs. Máquina<br>
+O melhor de 5 jogadas vence!</p>
+<img src="https://c.tenor.com/CACaU3WIOQYAAAAd/friends-monica-geller.gif" width="600" height="400" alt="jokenpo-monica-rachel">
 
 <p align="center">
-    <img src="https://c.tenor.com/CACaU3WIOQYAAAAd/friends-monica-geller.gif" width="600" height="400" alt="jokenpo-monica-rachel">
 </p>
 
+<h2> 🤝 Contribuindo </h2>
+
+<p>
+Este repositório foi criado para fins de estudo, então contribua com ele.<br>
+Se te ajudei de alguma forma, ficarei feliz em saber. E caso você conheça alguém que se identidique com o conteúdo, não deixe de compatilhar.<br>
+<br>
+Se possível:<br>
+⭐️  Star o projeto<br>
+🐛 Encontrar e relatar issues<br>
+</p>
+
+
+
+------------
+
+Disponibilizado com ♥ por [cami-la](https://www.linkedin.com/in/cami-la/ "cami-la").
 
 
