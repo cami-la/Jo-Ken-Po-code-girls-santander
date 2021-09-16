@@ -8,12 +8,15 @@
 </ol>
 
 <h2>♨️ Computador X Humanos </h2>
-<p align="center"><em>"O computador é burro, mas trabalha bem!"</em>em></p>
+<p align="center"><em>"O computador é burro, mas trabalha bem!"</em></p>
 <p>O computador não é nada inteligente. Por mais veloz que seja, ele está limitado a executar apenas a tarefa para a qual foi programado. Essa, porém, é uma daquelas desvantagens que também têm o seu lado bom.</p>
 <p>Ao mesmo tempo em que está limitada ao algoritmo que deve ser executado, a máquina pode realizar a mesma tarefas por horas a fio e a uma velocidade constante, sem que se chateie ou entre em questionamentos filosóficos sobre a vida, o universo e tudo o mais.</p>
 <p align="right"><a href="https://www.tecmundo.com.br/ciencia/16846-cerebro-humano-x-pc-como-eles-se-comparam-.htm">Fonte</a></p>
 
-
+<h2>♨️ O que danado é "Lógica de programação?"</h2>
+<p>Lógica de programação é a organização coesa de uma sequência de instruções voltadas à resolução de um problema, ou à criação de um software ou aplicação.</p>
+<p>Cada linguagem tem suas próprias particularidades, como sua sintaxe, seus tipos de dados e sua orientação, mas a lógica por trás de todas é a mesma.</p>
+<p align="right"><a href="https://kenzie.com.br/blog/logica-de-programacao/">Fonte</a></p>
 
 <h2>♨️ Como podemos definir "Linguagem de Programação"?</h2>
 <p> É uma linguagem formal que, através de uma série de instruções, permite ao programador escrever um conjunto de ordens, ações consecutivas, dados e algoritmos para criar programas que controlam o comportamento físico e lógico de uma máquina.</p>
@@ -33,11 +36,6 @@
         Tipo de execução
     </li>
 </ul>
-
-<h2>♨️ O que danado é "Lógica de programação?"</h2>
-<p>Lógica de programação é a organização coesa de uma sequência de instruções voltadas à resolução de um problema, ou à criação de um software ou aplicação.</p>
-<p>Cada linguagem tem suas próprias particularidades, como sua sintaxe, seus tipos de dados e sua orientação, mas a lógica por trás de todas é a mesma.</p>
-<p align="right"><a href="https://kenzie.com.br/blog/logica-de-programacao/">Fonte</a></p>
 
 <h2>♨️ Te apresento a Linguagem Java 🖤:</h2>
 <p>
