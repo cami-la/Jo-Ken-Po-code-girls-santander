@@ -1,3 +1,6 @@
+<h1 align="center">Jo-Ken-Po Code Girls Santander</h1>
+<p>O objetivo deste projeto é apresentar <em>conceitos iniciais da programação</em> para as meninas da comunidade Code Girls Santander.  </p>
+<p>Reproduziremos o jogo muito popular chamado <strong>Jo-Ken-Po</strong> (pedra, papel e tesoura). Para tal, utilizaremos da linguagem de programação Java.</p>
 <h2> 🛑 Pré-requistos </h2>
 
 - [x] Java JDK 8+ (Usarei JDK 11)
