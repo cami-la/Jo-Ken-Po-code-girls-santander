@@ -1,7 +1,7 @@
 <h2> 🛑 Pré-requistos </h2>
 
-- [x] Java JDK 11
-- [x] IDE para desenvolvimento Java
+- [x] Java JDK 8+ (Usarei JDK 11)
+- [x] IDE para desenvolvimento Java (Usarei IntelliJ Community)
 - [x] Disposição para estudar
 
 <h2>📝 Ementa</h2>
