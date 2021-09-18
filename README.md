@@ -1,3 +1,9 @@
+<h2> 🛑 Pré-requistos </h2>
+
+- [x] Java JDK 11
+- [x] IDE para desenvolvimento Java
+- [x] Disposição para estudar
+
 <h2>📝 Ementa</h2>
 
 <ol>
@@ -15,7 +21,7 @@
 <p align="center">
     <img src="https://media2.giphy.com/media/CTX0ivSQbI78A/giphy.gif?cid=790b7611f1697e92d7a4495d340aca8709e424b4d49f2b8f&rid=giphy.gif&ct=g" width="600" height="400"/>
 </p>
-<h2>♨️ O que danado é "Lógica de programação?"</h2>
+<h2>♨️ O que danado é "Lógica de Programação?"</h2>
 <p>Lógica de programação é a organização coesa de uma sequência de instruções voltadas à resolução de um problema, ou à criação de um software ou aplicação.</p>
 <p>Cada linguagem tem suas próprias particularidades, como sua sintaxe, seus tipos de dados e sua orientação, mas a lógica por trás de todas é a mesma.</p>
 <p align="right"><a href="https://kenzie.com.br/blog/logica-de-programacao/">Fonte</a></p>
