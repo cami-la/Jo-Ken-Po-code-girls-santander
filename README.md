@@ -14,15 +14,6 @@ O melhor de 5 jogadas vence!<br><br>
 - [x] IDE para desenvolvimento Java (Usarei IntelliJ Community)
 - [x] Disposição para estudar
 
-<h2>📝 Ementa</h2>
-
-<ol>
-    <li><a href="https://github.com/cami-la/Jo-Ken-Po-code-girls-santander/tree/master/EstruturaSequencial">Estrutura Sequencial</a></li>
-    <li><a href="https://github.com/cami-la/Jo-Ken-Po-code-girls-santander/tree/master/EstruturaDeDecisao">Estruturas de Decisão</a></li>
-    <li><a href="https://github.com/cami-la/Jo-Ken-Po-code-girls-santander/tree/master/EstruturasDeRepeticao">Estruturas de Repetição</a></li>
-    <li><a href="https://github.com/cami-la/Jo-Ken-Po-code-girls-santander/tree/master/Jo-Ken-Po">Jo-ken-Po</a></li>
-</ol>
-
 <h2>♨️ Computador X Humanos </h2>
 <p align="center"><em>"O computador é burro, mas trabalha bem!"</em></p>
 <p>O computador não é nada inteligente. Por mais veloz que seja, ele está limitado a executar apenas a tarefa para a qual foi programado. Essa, porém, é uma daquelas desvantagens que também têm o seu lado bom.</p>
