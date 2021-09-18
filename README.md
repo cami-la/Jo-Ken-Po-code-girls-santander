@@ -77,12 +77,15 @@ Jogadores: Usuário vs. Máquina<br>
 O melhor de 5 jogadas vence!<br><br>
 
 <img src="https://media1.giphy.com/media/Xoc70mlHm8SQGv7uRE/giphy.gif?cid=790b7611fb9477f332a4ee46efebeeed1045578781f28741&rid=giphy.gif&ct=g" width="600" height="400" alt="console-jokenpo">
-
 </p>
 
+<h2>🔎 Referências </h2>
+<ul>
+    <li> 🔗 https://github.com/COAB1/pyladies-sem_pantim</li>
+    <li> 🔗 https://www.youtube.com/watch?v=zzxlmn9gHIk&t=1123s</li>
+</ul>
 
 <h2> 🤝 Contribuindo </h2>
-
 <p>
 Este repositório foi criado para fins de estudo, então contribua com ele.<br>
 Se te ajudei de alguma forma, ficarei feliz em saber. E caso você conheça alguém que se identidique com o conteúdo, não deixe de compatilhar.<br>
