@@ -1,11 +1,12 @@
 <h1 align="center">Jo-Ken-Po Code Girls Santander ♨</h1>
 
 <p>O objetivo deste projeto é apresentar para as meninas da comunidade Code Girls Santander, <em>conceitos iniciais acerca da programação de computadores</em>. </p>
-<p>Para tal, reproduziremos o jogo muito popular conhecido como <strong>Jo-Ken-Po</strong> (pedra, papel e tesoura) utilizando a linguagem de programação Java.</p>
-
-<div align="center">
+<p align="center">
+Vamos fazer um programinha que simula o <a href="https://github.com/cami-la/Jo-Ken-Po-code-girls-santander/tree/master/Jo-Ken-Po">Jo-Ken-Po</a> ✊ ✋ ✌ (pedra, papel e tesoura).<br>
+Jogadores: Usuário vs. Máquina<br>
+O melhor de 5 jogadas vence!<br><br>
     <img src="https://c.tenor.com/CACaU3WIOQYAAAAd/friends-monica-geller.gif" width="600" height="400" alt="jokenpo-monica-rachel">
-</div>
+</p>
 
 <h2> 🛑 Pré-requistos </h2>
 
@@ -70,15 +71,6 @@
     <img src="https://rogerioaraujo.files.wordpress.com/2013/01/visaogeraldevjava.png" width="600" height="400"/>
 </p>
 
-<h2 align="center">Jo-Ken-Po ✊ ✋ ✌ </h2>
-<p align="center">
-Vamos fazer um programinha que simula o <a href="https://github.com/cami-la/Jo-Ken-Po-code-girls-santander/tree/master/Jo-Ken-Po">Jo-Ken-Po</a> (pedra, papel e tesoura).<br>
-Jogadores: Usuário vs. Máquina<br>
-O melhor de 5 jogadas vence!<br><br>
-
-<img src="https://media1.giphy.com/media/Xoc70mlHm8SQGv7uRE/giphy.gif?cid=790b7611fb9477f332a4ee46efebeeed1045578781f28741&rid=giphy.gif&ct=g" width="600" height="400" alt="console-jokenpo">
-</p>
-
 <h2>🔎 Referências </h2>
 <ul>
     <li> 🔗 https://github.com/COAB1/pyladies-sem_pantim</li>
@@ -94,7 +86,6 @@ Se possível:<br>
 ⭐️  Star o projeto<br>
 🐛 Encontrar e relatar issues<br>
 </p>
-
 
 
 ------------

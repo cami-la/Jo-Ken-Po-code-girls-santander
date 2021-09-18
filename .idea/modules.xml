@@ -2,9 +2,6 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/EstruturaDeDecisao/EstruturaDeDecisao.iml" filepath="$PROJECT_DIR$/EstruturaDeDecisao/EstruturaDeDecisao.iml" />
-      <module fileurl="file://$PROJECT_DIR$/EstruturaDeRepeticao/EstruturaDeRepeticao.iml" filepath="$PROJECT_DIR$/EstruturaDeRepeticao/EstruturaDeRepeticao.iml" />
-      <module fileurl="file://$PROJECT_DIR$/EstruturaSequencial/EstruturaSequencial.iml" filepath="$PROJECT_DIR$/EstruturaSequencial/EstruturaSequencial.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Jo-Ken-Po-code-girls-santander.iml" filepath="$PROJECT_DIR$/.idea/Jo-Ken-Po-code-girls-santander.iml" />
       <module fileurl="file://$PROJECT_DIR$/Jo-Ken-Po/jokenpo.iml" filepath="$PROJECT_DIR$/Jo-Ken-Po/jokenpo.iml" />
     </modules>
