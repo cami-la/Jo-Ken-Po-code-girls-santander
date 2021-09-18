@@ -3,7 +3,9 @@
 <p>O objetivo deste projeto é apresentar para as meninas da comunidade Code Girls Santander, <em>conceitos iniciais acerca da programação de computadores</em>. </p>
 <p>Para tal, reproduziremos o jogo muito popular conhecido como <strong>Jo-Ken-Po</strong> (pedra, papel e tesoura) utilizando a linguagem de programação Java.</p>
 
-<img src="https://media1.giphy.com/media/Xoc70mlHm8SQGv7uRE/giphy.gif?cid=790b7611fb9477f332a4ee46efebeeed1045578781f28741&rid=giphy.gif&ct=g" width="600" height="400">
+<div align="center">
+    <img src="https://c.tenor.com/CACaU3WIOQYAAAAd/friends-monica-geller.gif" width="600" height="400" alt="jokenpo-monica-rachel">
+</div>
 
 <h2> 🛑 Pré-requistos </h2>
 
@@ -73,7 +75,9 @@
 Vamos fazer um programinha que simula o <a href="https://github.com/cami-la/Jo-Ken-Po-code-girls-santander/tree/master/Jo-Ken-Po">Jo-Ken-Po</a> (pedra, papel e tesoura).<br>
 Jogadores: Usuário vs. Máquina<br>
 O melhor de 5 jogadas vence!<br><br>
-<img src="https://c.tenor.com/CACaU3WIOQYAAAAd/friends-monica-geller.gif" width="600" height="400" alt="jokenpo-monica-rachel">
+
+<img src="https://media1.giphy.com/media/Xoc70mlHm8SQGv7uRE/giphy.gif?cid=790b7611fb9477f332a4ee46efebeeed1045578781f28741&rid=giphy.gif&ct=g" width="600" height="400" alt="console-jokenpo">
+
 </p>
 
 
