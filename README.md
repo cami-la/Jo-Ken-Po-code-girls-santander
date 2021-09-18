@@ -13,7 +13,7 @@ O melhor de 5 jogadas vence!<br><br>
 - [x] Java JDK 8+ (Usarei JDK 11)
 - [x] IDE para desenvolvimento Java (Usarei IntelliJ Community)
 - [x] Disposição para estudar
-
+<hr>
 <h2>♨️ Computador X Humanos </h2>
 <p align="center"><em>"O computador é burro, mas trabalha bem!"</em></p>
 <p>O computador não é nada inteligente. Por mais veloz que seja, ele está limitado a executar apenas a tarefa para a qual foi programado. Essa, porém, é uma daquelas desvantagens que também têm o seu lado bom.</p>
