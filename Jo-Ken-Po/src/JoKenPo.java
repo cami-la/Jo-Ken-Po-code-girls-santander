@@ -29,8 +29,8 @@ public class JoKenPo {
 
         System.out.println("(1) pedra, (2) papel ou (3) tesoura?");
 
-        int user = 0;
-        int maquina = 0;
+        int pontuacaoUser = 0;
+        int pontuacaoMaquina = 0;
 
         int count = 0;
         while(count < 5) {
@@ -40,26 +40,52 @@ public class JoKenPo {
             int inputUser = scan.nextInt();
             if(inputUser > 3 || inputUser < 1) {
                 System.out.println("Amada, valor é 1, 2 ou 3. Ponto para a MÁQUINA!");
-                maquina++;
+                pontuacaoMaquina++;
                 continue;
+            }
+
+            String escolhaUser = "";
+            switch (inputUser) {
+                case (1): escolhaUser = "pedra"; break;
+                case (2): escolhaUser = "papel"; break;
+                case (3): escolhaUser = "tesoura"; break;
+                default:
+                    System.out.println("Valor inválido!"); break;
             }
 
             int inputMaquina = random.nextInt(3) + 1;
 
+            String escolhaMaquina = "";
+            switch (inputMaquina) {
+                case (1): escolhaMaquina = "pedra"; break;
+                case (2): escolhaMaquina = "papel"; break;
+                case (3): escolhaMaquina = "tesoura"; break;
+                default:
+                    System.out.println("Valor inválido!"); break;
+            }
+
             int game = inputUser - inputMaquina;
 
             if (game == 0) {
-                System.out.println(inputUser + " vs " + inputMaquina + ": EMPATE!");
+                System.out.println(escolhaUser + " vs " + escolhaMaquina + ": EMPATE!");
             } else if(game == -1 || game == 2) {
-                System.out.println(inputUser + " vs " + inputMaquina + ": MÁQUINA!");
-                maquina++;
+                System.out.println(escolhaUser + " vs " + escolhaMaquina + ": MÁQUINA!");
+                pontuacaoMaquina++;
             } else {
-                System.out.println(inputUser + " vs " + inputMaquina + ": USER!");
-                user++;
+                System.out.println(escolhaUser + " vs " + escolhaMaquina + ": USER!");
+                pontuacaoUser++;
             }
         }
         System.out.println("---------------------------------------");
-        System.out.println("Pontuação total: User = " + user + " vs Máquina = " + maquina);
+        System.out.println("Pontuação total: User = " + pontuacaoUser + " vs Máquina = " + pontuacaoMaquina);
+
+        //String vencedor = pontuacaoUser > pontuacaoMaquina ? "USER" : "MÁQUINA";
+        //System.out.println("Vencedor: " + vencedor);
+
+        if (pontuacaoMaquina > pontuacaoUser) System.out.println("Vencedor: MÁQUINA");
+        else if (pontuacaoMaquina < pontuacaoUser) System.out.println("Vencedor: USER");
+        else System.out.println("Vencedor: EMPATE");
+
         System.out.println("*********** FIM DE JOGO ***********");
 
     }
